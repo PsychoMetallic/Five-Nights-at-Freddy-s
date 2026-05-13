@@ -27,6 +27,15 @@ def print(*args, **kwargs):
     __builtins__.print(end=end)
 
 print("oi pessoal, eu sou o dollynho")
-dolly = input("seu amiguinho, vamos cantar? ")
-
-
+dolly = input("seu amiguinho, vamos cantar? Sim / Não: ").lower()
+print()
+if dolly == "sim":
+    print(f'''DOLLY, DOLLY GUARANÁ, DOLLY, O MELHOR!
+DOLLY GUARANÁ, O SABOR BRASILEIRO
+DOLLY, DOLLY GUARANÁ, DOLLY, O MELHOR!
+DOLLY GUARANÁ, DOLLY GUARANÁ''')
+{time.sleep(2)}
+if dolly == "sim":
+    print('''DOLLY GUARANÁ, DOLLY GUARANÁ
+DOLLY, DOLLY, DOLLY, DOLLY
+DOOOOOOOLLY, DOLLY!''')
