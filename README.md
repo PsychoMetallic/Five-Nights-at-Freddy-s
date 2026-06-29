@@ -6,6 +6,8 @@ Integrante 1: [Everton]
 
 Integrante 2: [Gustavo]
 
+Integrante Fantasma: [Kaio]
+
 
 🎯 1. Visão do Produto
 
